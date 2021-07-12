@@ -1,0 +1,6 @@
+install git bash - https://www.youtube.com/watch?v=qdwWe9COT9k&feature=youtu.be&ab_channel=BecomingaDataScientist
+install node - https://nodejs.org/en/
+install nodemon globally - npm i -g nodemon
+install mongo - https://zarkom.net/blogs/how-to-install-mongodb-for-development-in-windows-3328
+configure git user.name and user.email
+npm packages - "npm i" on directory
